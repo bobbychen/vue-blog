@@ -1,7 +1,7 @@
 export default  {
-    blogTitle: 'UnKnown Me',
+    blogTitle: 'Test',
     config: {
-        repo: 'viko16/vue-ghpages-blog',
+        repo: 'bobbychen/vue-blog',
         path: 'markdown',
         brance: 'markdown'
     }
